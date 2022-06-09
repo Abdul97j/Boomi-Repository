@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="7dae9556-b6f1-4102-9339-b8ccdc66e44d" createdBy="debasishp@kovair.com" createdDate="2022-06-09T04:59:15Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc." folderId="Rjo0ODA4MTUw" folderName="Kovair Software Inc." modifiedBy="debasishp@kovair.com" modifiedDate="2022-06-09T05:04:43Z" name="ComponentFinalTest" type="process" version="2">
+<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="7dae9556-b6f1-4102-9339-b8ccdc66e44d" createdBy="debasishp@kovair.com" createdDate="2022-06-09T04:59:15Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc." folderId="Rjo0ODA4MTUw" folderName="Kovair Software Inc." modifiedBy="debasishp@kovair.com" modifiedDate="2022-06-09T11:25:54Z" name="ComponentFinalTest" type="process" version="3">
 <bns:encryptedValues/>
 <bns:description/>
 <bns:object>
@@ -46,7 +46,7 @@
 <shape image="notify_icon" name="shape4" shapetype="notify" userlabel="Notify 2nd" x="208.0" y="192.0">
 <configuration>
 <notify disableEvent="true" enableUserLog="false" perExecution="false" title="">
-<notifyMessage>How are you?</notifyMessage>
+<notifyMessage>Updated component boomi demo</notifyMessage>
 <notifyMessageLevel>INFO</notifyMessageLevel>
 <notifyParameters/>
 </notify>
